@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: system-ui, sans-serif;
+    background-color: black;
+  }
+
+  .wave-containerone {
+    position: top;
+    text-align: center;
+    overflow: hidden;
+  }
+
+  .wave-containertwo {
+    position: top;
+    top: 1px;
+    color: #7F230F;
+    text-align: center;
+    overflow: hidden;
+  }
+
+  h1 {
+    font-size: 5rem;
+    margin: 7rem 1.25rem 2.5rem 1.25rem;
+  }
+  p {
+    font-size: 1.5rem;
+    margin: 0 1.25rem 5rem 1.25rem;
+  }
